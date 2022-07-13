@@ -1,0 +1,4 @@
+Login Name:serveradmin
+Password:UhUGgE4r
+Api Key:BAArnLgSc_rX91aFzwbrlEXi_sqVHp7om7XSRcf
+Server Admin Privi Key:6H1xec2TSqJU3XEPE4poUnu9uFENvHyx7gOdoaJ3
